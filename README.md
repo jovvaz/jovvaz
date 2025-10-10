@@ -28,6 +28,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da 
 ## 📂 Meus Projetos
 - https://github.com/jovvaz/SimpBankJava
 - https://github.com/jovvaz/Control-System
+- https://github.com/jovvaz/Gamedia---API
 
 
 ---
