@@ -3,7 +3,7 @@
 
 
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade como desenvolvedor. Aqui compartilho meus estudos, projetos e experimentos com **Java**, **HTML/CSS** e **análise de dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da minha primeira oportunidade como desenvolvedor. Aqui compartilho meus estudos, projetos e experimentos.
 
 ---
 
