@@ -30,6 +30,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca da 
 - https://github.com/jovvaz/Control-System
 - https://github.com/jovvaz/Gamedia---API
 - https://github.com/jovvaz/control-system-frontend
+- https://github.com/Viza-Stock/Viza-Stock
 
 ---
 
